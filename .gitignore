@@ -1,0 +1,16 @@
+node_modules/
+.env
+
+**/node_modules/
+**/.env
+
+candy-machine-ui/.DS_Store
+candy-machine-ui/*~
+candy-machine-ui/.idea
+candy-machine-ui/.yarn
+candy-machine-ui/npm-debug.log*
+candy-machine-ui/yarn-debug.log*
+candy-machine-ui/yarn-error.log*
+candy-machine-ui/.env
+candy-machine-ui/.vscode
+candy-machine-ui/**/.DS_Store
